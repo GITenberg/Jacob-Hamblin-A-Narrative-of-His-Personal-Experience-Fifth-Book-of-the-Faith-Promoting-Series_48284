@@ -1,10 +1,16 @@
 _repo: Jacob-Hamblin-A-Narrative-of-His-Personal-Experience-Fifth-Book-of-the-Faith-Promoting-Series_48284
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48284-h/images/cover.jpg
 creator:
   author:
     agent_name: Little, James A.
     gutenberg_agent_id: '44712'
     url: http://www.gutenberg.org/2009/agents/44712
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48284#Jacob-Hamblin-A-Narrative-of-His-Personal-Experience-Fifth-Book-of-the-Faith-Promoting-Series
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2015-02-16'
 gutenberg_type: Text
